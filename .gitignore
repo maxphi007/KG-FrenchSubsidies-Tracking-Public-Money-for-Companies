@@ -1,0 +1,13 @@
+# Large raw datasets
+StockUniteLegale.csv
+data_subsidies/
+
+# Derived artifacts
+agrisub-*.csv
+merged_subsidies_sirene.csv
+knowledge_graph.tsv
+siren_name_mapping.json
+pykeen_model/
+
+# Notebook and editor caches
+.ipynb_checkpoints/
